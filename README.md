@@ -40,4 +40,4 @@ I enjoy Listening, Making Music 🎧 Playing Guitar 🎸.
 ***
 
 ![MangoSteen0903's GitHub stats](https://github-readme-stats.vercel.app/api?username=MangoSteen0903&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MangoSteen0903&exclude_repo=Youtube-Trend-Analysis-Project&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MangoSteen0903&exclude_repo=Youtube-Trend-Analysis-Project,flutter-timer,flutter-ui-practice&hide=html&layout=compact&theme=radical)
