@@ -37,6 +37,18 @@ I enjoy Listening, Making Music 🎧 Playing Guitar 🎸.
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
 </p>
 
+### Currently Learning
+<p>
+  <img src="https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=Elixir&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
+</p>
+
+### Planning to learn
+<p>
+  <img src="https://img.shields.io/badge/Ruby on Rails-CC0000?style=flat-square&logo=Ruby on Rails&logoColor=white"/>
+</p>
+
 ***
 
 ![MangoSteen0903's GitHub stats](https://github-readme-stats.vercel.app/api?username=MangoSteen0903&show_icons=true&theme=radical)
